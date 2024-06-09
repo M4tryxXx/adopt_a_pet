@@ -8,7 +8,7 @@ const Pet = ({ animal }) => {
       to={`/${animal.type.toLowerCase()}/${animal.id}`}
       className="pet"
     >
-      <article>
+      <article className='searched-pet-container'>
         <div className="pet-image-container">
           {
             <img

@@ -12,7 +12,6 @@ const Hero = ({ image, displayText }) => {
         }")
           `,
         backgroundBlendMode: 'saturation',
-        backgroundSize: 'cover',
         backgroundColor: '#0000008f'
       }}
     >
