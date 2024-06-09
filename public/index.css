@@ -115,6 +115,27 @@
   background-size: cover;
 }
 
+.hero-photos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 5px auto;
+  flex-wrap: wrap;
+}
+
+.hero-photos-container > article {
+  margin: 10px;
+  width: auto;
+  height: auto;
+}
+
+.hero-photos-container > article > .pet-image-container {
+  margin: 10px;
+  width: 300px;
+  height: auto;
+}
+
 .hero-container,
 h2 {
   font-size: 40px;

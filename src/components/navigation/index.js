@@ -4,7 +4,7 @@ import Logo from '../../assets/logo.svg';
 import Search from '../search';
 
 // Import NavLink
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 const Navigation = () => {
   const [petTypes, setPetTypes] = useState([]);
@@ -20,10 +20,14 @@ const Navigation = () => {
 
   return (
     <nav>
+      
       <div className="nav-logo">
-        <img src={Logo} alt="Petlover" />
+        <Link to='/'>
+          <img src={Logo} alt="Petlover" />
+        </Link>
         <Search />
       </div>
+      
       <ul className="nav-links">
         <li key={'all'}>
           {/* These links should be NavLink component and add a special active class name if its an active link */}

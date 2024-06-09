@@ -3,7 +3,7 @@ import { getPetDetails } from '../../api/petfinder';
 import Hero from '../../components/hero';
 
 // Import useParams
-import { useParams } from 'react-router-dom';
+import { Link, Outlet, useParams } from 'react-router-dom';
 // Import Navigate
 import { Navigate } from 'react-router-dom';
 import PetDetailsNotFound from '../petDetailsNotFound';
@@ -44,6 +44,7 @@ const PetDetailsPage = () => {
             displayText={`Meet ${data.name}`}
           />
           <div className="pet-detail">
+          <Link to={`photos/${id}`}>
             <div className="pet-image-container">
               <img
                 className="pet-image"
@@ -53,6 +54,7 @@ const PetDetailsPage = () => {
                 alt=""
               />
             </div>
+            </Link>
             <div>
               <h1>{data.name}</h1>
               <h3>Breed: {data.breeds.primary}</h3>
@@ -61,7 +63,11 @@ const PetDetailsPage = () => {
               <h3>Description</h3>
               <p>{data.description}</p>
             </div>
+            <br/>
           </div>
+          
+
+          <Outlet/>
         </main>
       )}
     </div>

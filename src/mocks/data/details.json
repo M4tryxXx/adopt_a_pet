@@ -1,4 +1,183 @@
 {
+  "5132239912": {
+    "id": 5132239912,
+    "organization_id": "CA2737",
+    "url": "https://www.petfinder.com/dog/gia-51322399/ca/glendora/socal-animal-rescue-squad-scars-ca2737/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+    "type": "Dog",
+    "species": "Dog",
+    "breeds": {
+      "primary": "Mixed Breed",
+      "secondary": "Mixed Breed",
+      "mixed": true,
+      "unknown": false
+    },
+    "colors": {
+      "primary": "Brown / Beige",
+      "secondary": null,
+      "tertiary": null
+    },
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Small",
+    "coat": "Short",
+    "attributes": {
+      "spayed_neutered": true,
+      "house_trained": false,
+      "declawed": null,
+      "special_needs": false,
+      "shots_current": true
+    },
+    "environment": { "children": null, "dogs": true, "cats": null },
+    "tags": [
+      "Loving",
+      "playful",
+      "affectionate",
+      "fun",
+      "funny",
+      "spunky",
+      "cuddler",
+      "social"
+    ],
+    "name": "Lucky",
+    "description": "NOTE: We update our posts daily. If you are reading this, we are still accepting applications. We will NOT respond...",
+    "organization_animal_id": null,
+    "photos": [
+      {
+        "small": "https://i.ibb.co/LnNBy7S/59536914861-0-B2790-D7-DAF4-460-A-8-CAC-48-B1416-E1-F88.jpg",
+        "medium": "https://i.ibb.co/LnNBy7S/59536914861-0-B2790-D7-DAF4-460-A-8-CAC-48-B1416-E1-F88.jpg",
+        "large": "https://i.ibb.co/LnNBy7S/59536914861-0-B2790-D7-DAF4-460-A-8-CAC-48-B1416-E1-F88.jpg",
+        "full": "https://i.ibb.co/LnNBy7S/59536914861-0-B2790-D7-DAF4-460-A-8-CAC-48-B1416-E1-F88.jpg"
+      },{
+        "small": "https://i.ibb.co/cJFBTbP/59666319523-8-F90237-C-6340-4-C85-8-DC5-447-C6-E574-AD5.jpg",
+        "medium": "https://i.ibb.co/cJFBTbP/59666319523-8-F90237-C-6340-4-C85-8-DC5-447-C6-E574-AD5.jpg",
+        "large": "https://i.ibb.co/cJFBTbP/59666319523-8-F90237-C-6340-4-C85-8-DC5-447-C6-E574-AD5.jpg",
+        "full": "https://i.ibb.co/cJFBTbP/59666319523-8-F90237-C-6340-4-C85-8-DC5-447-C6-E574-AD5.jpg"
+      },{
+        "small": "https://i.ibb.co/02QKtMB/61834699521-EDEACF90-9-CBF-40-ED-ACE3-10-AACC896983.jpg",
+        "medium": "https://i.ibb.co/02QKtMB/61834699521-EDEACF90-9-CBF-40-ED-ACE3-10-AACC896983.jpg",
+        "large": "https://i.ibb.co/02QKtMB/61834699521-EDEACF90-9-CBF-40-ED-ACE3-10-AACC896983.jpg",
+        "full": "https://i.ibb.co/02QKtMB/61834699521-EDEACF90-9-CBF-40-ED-ACE3-10-AACC896983.jpg"
+      }
+    ],
+    "primary_photo_cropped": {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=300",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=450",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322399/5/?bust=1619219047"
+    },
+    "videos": [
+      {
+        "embed": "\u003Ciframe title=\u0022Video\u0022 src=\u0022https://www.youtube.com/embed/PpolC9EpOR8?enablejsapi=1\u0022 frameborder=\u00220\u0022 allowfullscreen\u003E\u003C/iframe\u003E"
+      }
+    ],
+    "status": "adoptable",
+    "status_changed_at": "2021-04-23T23:05:16+0000",
+    "published_at": "2021-04-23T23:05:16+0000",
+    "distance": null,
+    "contact": {
+      "email": "info@jointhescars.org",
+      "phone": "(626) 387-9093",
+      "address": {
+        "address1": null,
+        "address2": null,
+        "city": "Glendora",
+        "state": "CA",
+        "postcode": "91740",
+        "country": "US"
+      }
+    },
+    "_links": {
+      "self": { "href": "/v2/animals/51322399" },
+      "type": { "href": "/v2/types/dog" },
+      "organization": { "href": "/v2/organizations/ca2737" }
+    }
+  },
+
+  "513224359" : {
+    "id": 513224359,
+    "organization_id": "IN392",
+    "url": "https://www.petfinder.com/cat/shuri-51322435/in/noblesville/rescue-me-r-dot-ch-dot-s-inc-in392/?referrer_id=9628f526-bbe7-46d7-8d13-84143024f092",
+    "type": "Cat",
+    "species": "Cat",
+    "breeds": {
+      "primary": "unknown",
+      "secondary": null,
+      "mixed": false,
+      "unknown": false
+    },
+    "colors": { "primary": "black", "secondary": "black", "tertiary": null },
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Medium",
+    "coat": "Medium",
+    "attributes": {
+      "spayed_neutered": true,
+      "house_trained": true,
+      "declawed": false,
+      "special_needs": false,
+      "shots_current": true
+    },
+    "environment": { "children": true, "dogs": true, "cats": true },
+    "tags": [],
+    "name": "Betsy",
+    "description": "Hi\u00a1  My name is Betsy.  It\u2019s nice to meet you!  I\u2019m a 9 month old, female, DMH, torti kitten, available...",
+    "organization_animal_id": null,
+    "photos": [
+      {
+        "small": "https://i.ibb.co/xs8Qtwt/IMG-0008.jpg",
+        "medium": "https://i.ibb.co/xs8Qtwt/IMG-0008.jpg",
+        "large": "https://i.ibb.co/xs8Qtwt/IMG-0008.jpg",
+        "full": "https://i.ibb.co/xs8Qtwt/IMG-0008.jpg"
+      },
+      {
+        "small": "https://i.ibb.co/XXST9jg/60424485590-069877-E7-8041-4-D96-95-E5-43-A08-D46-D487.jpg",
+        "medium": "https://i.ibb.co/XXST9jg/60424485590-069877-E7-8041-4-D96-95-E5-43-A08-D46-D487.jpg",
+        "large": "https://i.ibb.co/XXST9jg/60424485590-069877-E7-8041-4-D96-95-E5-43-A08-D46-D487.jpg",
+        "full": "https://i.ibb.co/XXST9jg/60424485590-069877-E7-8041-4-D96-95-E5-43-A08-D46-D487.jpg"
+      },
+      {
+        "small": "https://i.ibb.co/fdG97Dt/IMG-0256.jpg",
+        "medium": "https://i.ibb.co/fdG97Dt/IMG-0256.jpg",
+        "large": "https://i.ibb.co/fdG97Dt/IMG-0256.jpg",
+        "full": "https://i.ibb.co/fdG97Dt/IMG-0256.jpg"
+      },
+      {
+        "small" :"https://i.ibb.co/44PdtbY/60910200033-81-C0-A382-8-CC4-4-DEF-9-EF1-F38-E6-AEBD32-F.jpg",
+        "medium" : "https://i.ibb.co/44PdtbY/60910200033-81-C0-A382-8-CC4-4-DEF-9-EF1-F38-E6-AEBD32-F.jpg",
+        "large": "https://i.ibb.co/44PdtbY/60910200033-81-C0-A382-8-CC4-4-DEF-9-EF1-F38-E6-AEBD32-F.jpg", 
+        "full": "https://i.ibb.co/44PdtbY/60910200033-81-C0-A382-8-CC4-4-DEF-9-EF1-F38-E6-AEBD32-F.jpg"
+      }
+    ],
+    "primary_photo_cropped": {
+      "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322435/3/?bust=1619219058\u0026width=300",
+      "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322435/3/?bust=1619219058\u0026width=450",
+      "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322435/3/?bust=1619219058\u0026width=600",
+      "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51322435/3/?bust=1619219058"
+    },
+    "videos": [],
+    "status": "adoptable",
+    "status_changed_at": "2021-04-23T23:05:35+0000",
+    "published_at": "2021-04-23T23:05:35+0000",
+    "distance": null,
+    "contact": {
+      "email": "RescueMeRCHS@aol.com",
+      "phone": "(765) 468-3055",
+      "address": {
+        "address1": "17180 Mercantile Blvd",
+        "address2": null,
+        "city": "Noblesville",
+        "state": "IN",
+        "postcode": "46060",
+        "country": "US"
+      }
+    },
+    "_links": {
+      "self": { "href": "/v2/animals/51322435" },
+      "type": { "href": "/v2/types/cat" },
+      "organization": { "href": "/v2/organizations/in392" }
+    }
+  },
+  
   "51322435": {
     "id": 51322435,
     "organization_id": "IN392",
